@@ -1,0 +1,13 @@
+.idea/
+*.DS_Store*
+lastupdate.tmp
+MSRM
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+go_build_MSRM
+*/.DS_Store
+/.vscode/
+MsrmTools
+go_build_MsrmTools
+go.sum
